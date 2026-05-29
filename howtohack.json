@@ -1,9 +1,10 @@
 {
-    "owner": {
-        "username": "cosmooowanttobeadev",
-        "email": "aadidevvnair.1b@gmail.com"
-    },
-    "record": {
-        "CNAME": "cosmooowanttobeadev.github.io"
-    }
-}
+  "owner": {
+    "username": "cosmooowanttobeadev",
+    "email": "aadidevvnair@gmail.com"
+  },
+  "records": {
+    "CNAME": "is-a-dev-docs.pages.dev"
+      "A": ["185.199.108.153","185.199.109.153","185.199.110.153","185.199.111.153"]
+  },
+    
