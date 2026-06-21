@@ -4,4 +4,5 @@ and this website is not finished and this is.
 
 Change logs: Alpha 0.2 image size fixed not quality 
 Change logs: Alpha 0.3 added a box around url for linux download
-version alpha 0.3 or V alpha 0.3
+Change logs: Alpha 0.4 added typewriter effect the css class is class="typewriter"
+version alpha 0.4 or V alpha 0.4
