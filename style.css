@@ -183,7 +183,6 @@ display: none;
  text-align: center;   
  border: 20px solid #000;   
 }
-/* next is the type writer effect */
 .typewriter{
   display: flex;
   justify-content: center;
