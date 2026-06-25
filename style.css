@@ -182,16 +182,7 @@ display: none;
  list-style-type: none;
  text-align: center;   
  border: 20px solid #000;
-}
-.🏈:link{
-    text-decoration: none;
-}
-.🏈:visited {
-  text-decoration: none;
-}
-.🏈:hover {
-  text-decoration: underline;
-  transition: 190ms;
+ text-decoration: none;
 }
 .typewriter{
   display: flex;
