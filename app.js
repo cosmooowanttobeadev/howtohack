@@ -2,7 +2,6 @@ let count = 10
 function myFunction(){
   alert("hello")
 }
-console.log("the code for darkmode is AI only JS")
 const themeSwitch = document.getElementById("theme-switch");
 
     
