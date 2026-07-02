@@ -247,3 +247,11 @@ display: none;
     border-color: transparent;
   }
 }
+.hyperlink:link{
+    text-decoration: none;
+    color:var(--accent-color);
+}
+.hyperlink:hover{
+    text-decoration: underline;
+    color:var(--accent-color);
+}
