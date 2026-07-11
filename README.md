@@ -6,7 +6,7 @@ i am trying to add a domain so more people can see my website or subdomain i can
 .devs.surf maybe i can try agan
 new stuff: added new file created new website the new website is my portfolio the new file has all my other websites
 i have added a subdomain but now this website is not working i just get a 404 error message in my computer i fixed the https problem i will check it on another device it works i now i have to make it
-work on my laptop.
+work on my laptop is workig i just have to reopen my browser.
 
 Change logs: Alpha 0.2 image size fixed not quality 
 Change logs: Alpha 0.3 added a box around url for linux download
