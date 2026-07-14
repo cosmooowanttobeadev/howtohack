@@ -249,7 +249,6 @@ display: none;
 }
 .hyperlink:link{
  text-decoration: none;
- color:var(--accent-color);
 }
 .hyperlink:hover{
     text-decoration: underline;
