@@ -11,6 +11,7 @@
     --accent-colorselect:#71A4FF;
     --navbar-color:gray;
     --navbar-select:#333333;
+    --faq-color:#c0c0c6;
 }
 .darkmode{
     --base-color:#070b1d;
@@ -23,6 +24,7 @@
     --navbar-color:#1E1E1E;
     --navbar-select:#121212;
     --navbar-select-text:#ffffff;
+    --faq-color:#636365;
 }
 body{
 font-family: poppins;
