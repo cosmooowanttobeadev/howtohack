@@ -1,0 +1,10 @@
+.FAQ{
+    background-color: var(--faq-color);
+    padding-left: 55px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-right: 55px;
+    border-radius: 20px;
+    color: var(--text-color);
+    border: solid 10px #b4b4b4;
+}
