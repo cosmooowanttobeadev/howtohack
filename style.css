@@ -256,3 +256,10 @@ display: none;
     text-decoration: underline;
     color:var(--accent-color);
 }
+.darkmodebutton{
+    transition: 100ms;
+}
+.darkmodebutton:hover{
+    scale: 1.4;
+    transition: 100ms;
+}
