@@ -8,3 +8,12 @@
     color: var(--text-color);
     border: solid 10px #b4b4b4;
 }
+.github svg{
+  fill: #151513;
+  border:0;
+  color:#fff;
+  height:80px;
+  right:0;
+  bottom: 0;
+  width:80px
+}
