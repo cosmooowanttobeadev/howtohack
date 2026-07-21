@@ -9,6 +9,7 @@ i have added a subdomain but now this website is not working i just get a 404 er
 work on my laptop is workig i just have to reopen my browser.
 righ now this is not working.
 19 Jully 2026 this website is up.
+The github svg is not finished .
 
 Change logs: Alpha 0.2 image size fixed not quality.
 Change logs: Alpha 0.3 added a box around url for linux download.
