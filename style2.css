@@ -17,3 +17,9 @@
   bottom: 0;
   width:80px
 }
+.🧮{
+    text-decoration: none;
+}
+.🧮:hover{
+    text-decoration: underline;
+}
