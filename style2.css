@@ -17,3 +17,12 @@
     color: var(--accent-color)
 }
 
+.github svg {
+    color: var(--github-repo) !important;
+    fill: currentColor;
+    width: 80px;
+    height: 80px;
+}
+.github svg path {
+    fill: var(--github-repo) !important;
+}
