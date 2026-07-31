@@ -10,6 +10,7 @@ work on my laptop is workig i just have to reopen my browser.
 righ now this is not working.
 19 Jully 2026 this website is up.
 removed github svg .
+Now fixing a tags.
 
 Change logs: Alpha 0.2 image size fixed not quality.
 Change logs: Alpha 0.3 added a box around url for linux download.
