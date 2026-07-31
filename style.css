@@ -55,10 +55,6 @@ h4{
     color: var(--text-color);
     font-family:poppins;
 }
-a{
-    color: var(--accent-color);
-    font-family: poppins;
-}
 h3{
     color: var(--text-color);
     font-family: poppins; 
