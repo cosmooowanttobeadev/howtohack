@@ -186,6 +186,9 @@ display: none;
  border: 20px solid #000;
  text-decoration: none;
 }
+.🏈 p{
+    color:var(--text-color);
+}
 .typewriter{
   display: flex;
   justify-content: center;
