@@ -186,7 +186,7 @@ display: none;
  border: 20px solid #000;
  text-decoration: none;
 }
-.🏈 p{
+.🏈 a{
     color:var(--text-color);
 }
 .typewriter{
