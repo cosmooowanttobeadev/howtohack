@@ -187,7 +187,7 @@ display: none;
  text-decoration: none;
 }
 .🏈 a{
-    color:var(--text-color);
+    color:var(--text-color) !important;
 }
 .typewriter{
   display: flex;
