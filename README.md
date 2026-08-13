@@ -13,6 +13,7 @@ righ now this is not working.
 removed github svg .
 Now fixing a tags.
 
+
 Change logs: Alpha 0.2 image size fixed not quality.
 Change logs: Alpha 0.3 added a box around url for linux download.
 Change logs: Alpha 0.4 added typewriter effect the css class is class="typewriter".
